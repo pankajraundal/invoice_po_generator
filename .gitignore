@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore generated sample documents
+sample_docs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env

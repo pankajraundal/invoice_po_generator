@@ -1,0 +1,4 @@
+faker
+reportlab
+pdf2image
+Pillow
